@@ -1,0 +1,9 @@
+ipykernel
+ipympl
+ipywidgets
+jupyter
+matplotlib
+notebook
+numpy
+scipy
+tox
