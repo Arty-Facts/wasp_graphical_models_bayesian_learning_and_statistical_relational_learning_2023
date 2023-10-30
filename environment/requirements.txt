@@ -7,3 +7,7 @@ notebook
 numpy
 scipy
 tox
+pandas
+tqdm
+nltk
+gensim
