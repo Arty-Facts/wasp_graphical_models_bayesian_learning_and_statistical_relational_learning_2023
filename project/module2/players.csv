@@ -1,0 +1,261 @@
+player_id,rank,ranking_points,name,country_code
+1,1,11620,Serena Williams,USA
+2,2,10015,Maria Sharapova,RUS
+3,3,9005,Victoria Azarenka,BLR
+4,4,6125,Agnieszka Radwanska,POL
+5,5,5835,Sara Errani,ITA
+6,6,5335,Na Li,CHN
+7,7,5175,Petra Kvitova,CZE
+8,8,5135,Angelique Kerber,GER
+9,9,3645,Samantha Stosur,AUS
+10,10,3625,Caroline Wozniacki,DEN
+11,11,3065,Nadia Petrova,RUS
+12,12,3036,Maria Kirilenko,RUS
+13,13,2845,Marion Bartoli,FRA
+14,14,2800,Ana Ivanovic,SRB
+15,15,2785,Roberta Vinci,ITA
+16,16,2540,Dominika Cibulkova,SVK
+17,17,2530,Sloane Stephens,USA
+18,18,2500,Jelena Jankovic,SRB
+19,19,2010,Anastasia Pavlyuchenkova,RUS
+20,20,1975,Carla Suarez Navarro,ESP
+21,21,1908,Kirsten Flipkens,BEL
+22,22,1811,Ekaterina Makarova,RUS
+23,23,1745,Shuai Peng,CHN
+24,24,1745,Klara Koukalova,CZE
+25,25,1686,Varvara Lepchenko,USA
+26,26,1680,Kaia Kanepi,EST
+27,27,1610,Alize Cornet,FRA
+28,28,1605,Julia Goerges,GER
+29,29,1595,Lucie Safarova,CZE
+30,30,1595,Sorana Cirstea,ROU
+31,31,1572,Yaroslava Shvedova,KAZ
+32,32,1546,Venus Williams,USA
+33,33,1539,Tamira Paszek,AUT
+34,34,1526,Sabine Lisicki,GER
+35,35,1500,Mona Barthel,GER
+36,36,1490,Romina Oprandi,SUI
+37,37,1475,Laura Robson,GBR
+38,38,1468,Elena Vesnina,RUS
+39,39,1442,Svetlana Kuznetsova,RUS
+40,40,1430,Urszula Radwanska,POL
+41,41,1365,Yanina Wickmayer,BEL
+42,42,1360,Su Wei Hsieh,TPE
+43,43,1320,Jie Zheng,CHN
+44,44,1319,Ayumi Morita,JPN
+45,45,1305,Lourdes Dominguez Lino,ESP
+46,46,1304,Kristina Mladenovic,FRA
+47,47,1240,Bojana Jovanovski,SRB
+48,48,1240,Heather Watson,GBR
+49,49,1225,Monica Niculescu,ROU
+50,50,1166,Francesca Schiavone,ITA
+51,51,1139,Irina Camelia Begu,ROU
+52,52,1136,Magdalena Rybarikova,SVK
+53,53,1114,Christina Mchale,USA
+54,54,1093,Jamie Hampton,USA
+55,55,1080,Kiki Bertens,NED
+56,56,1071,Stefanie Voegele,SUI
+57,57,1040,Simona Halep,ROU
+58,58,1028,Madison Keys,USA
+59,59,1021,Tsvetana Pironkova,BUL
+60,60,1010,Chanelle Scheepers,RSA
+61,61,1005,Daniela Hantuchova,SVK
+62,62,980,Annika Beck,GER
+63,63,975,Olga Govortsova,BLR
+64,64,935,Sofia Arvidsson,SWE
+65,65,918,Lauren Davis,USA
+66,66,910,Johanna Larsson,SWE
+67,67,902,Bethanie Mattek Sands,USA
+68,68,897,Anabel Medina Garrigues,ESP
+69,69,886,Jana Cepelova,SVK
+70,70,870,Lara Arruabarrena,ESP
+71,71,870,Maria Teresa Torro Flor,ESP
+72,72,857,Garbine Muguruza,ESP
+73,73,857,Karolina Pliskova,CZE
+74,74,847,Anna Tatishvili,GEO
+75,75,839,Lesia Tsurenko,UKR
+76,76,838,Mandy Minella,LUX
+77,77,831,Eugenie Bouchard,CAN
+78,78,814,Melanie Oudin,USA
+79,79,807,Olga Puchkova,RUS
+80,80,806,Mallory Burdette,USA
+81,81,805,Aleksandra Wozniak,CAN
+82,82,799,Misaki Doi,JPN
+83,83,789,Kimiko Date Krumm,JPN
+84,84,777,Camila Giorgi,ITA
+85,85,774,Silvia Soler Espinosa,ESP
+86,86,761,Monica Puig,PUR
+87,87,756,Lucie Hradecka,CZE
+88,88,752,Donna Vekic,CRO
+89,89,749,Andrea Hlavackova,CZE
+90,90,744,Elina Svitolina,UKR
+91,91,743,Alexandra Cadantu,ROU
+92,92,738,Marina Erakovic,NZL
+93,93,714,Vesna Dolonc,SRB
+94,94,712,Mathilde Johansson,FRA
+95,95,704,Yung Jan Chan,TPE
+96,96,697,Coco Vandeweghe,USA
+97,97,690,Estrella Cabeza Candela,ESP
+98,98,684,Yulia Putintseva,KAZ
+99,99,683,Pauline Parmentier,FRA
+100,100,672,Arantxa Rus,NED
+101,101,671,Mirjana Lucic,CRO
+102,102,656,Kristyna Pliskova,CZE
+103,103,656,Timea Babos,HUN
+104,104,638,Tatjana Maria,GER
+105,105,634,Maria Joao Koehler,POR
+106,106,620,Ying Ying Duan,CHN
+107,107,617,Nina Bratchikova,RUS
+108,108,606,Petra Martic,CRO
+109,109,604,Shuai Zhang,CHN
+110,110,603,Melinda Czink,HUN
+111,111,601,Karin Knapp,ITA
+112,112,595,Ksenia Pervak,KAZ
+113,113,590,Alexa Glatch,USA
+114,114,586,Caroline Garcia,FRA
+115,115,582,Yvonne Meusburger,AUT
+116,116,581,Maria Sanchez,USA
+117,117,564,Sharon Fichman,CAN
+118,118,563,Paula Ormaechea,ARG
+119,119,561,Sesil Karatantcheva,KAZ
+120,120,561,Eleni Daniilidou,GRE
+121,121,560,Luksika Kumkhum,THA
+122,122,559,Flavia Pennetta,ITA
+123,123,553,Galina Voskoboeva,KAZ
+124,124,553,Kai Chen Chang,TPE
+125,125,546,Jessica Pegula,USA
+126,126,527,Stephanie Foretz Gacon,FRA
+127,127,523,Dinah Pfizenmaier,GER
+128,128,523,Vania King,USA
+129,129,519,Julia Cohen,USA
+130,130,518,Teliana Pereira,BRA
+131,131,517,Polona Hercog,SLO
+132,132,514,Nastassja Burnett,ITA
+133,133,512,Marta Sirotkina,RUS
+134,134,507,Michelle Larcher De Brito,POR
+135,135,502,Anastasia Rodionova,AUS
+136,136,478,Andrea Petkovic,GER
+137,137,477,Irina Falconi,USA
+138,138,474,Barbora Zahlavova Strycova,CZE
+139,139,468,Claire Feuerstein,FRA
+140,140,464,Shahar Peer,ISR
+141,141,454,Aleksandra Krunic,SRB
+142,142,453,Maria Jose Martinez Sanchez,ESP
+143,143,450,Tadeja Majeric,SLO
+144,144,448,Maryna Zanevska,UKR
+145,145,443,Ajla Tomljanovic,AUS
+146,146,439,Kurumi Nara,JPN
+147,147,435,Maria Elena Camerin,ITA
+148,148,434,Casey Dellacqua,AUS
+149,149,434,Julia Glushko,ISR
+150,150,433,Anna Karolina Schmiedlova,SVK
+151,151,429,Eva Birnerova,CZE
+152,152,424,Ekaterina Bychkova,RUS
+153,153,422,Daria Gavrilova,AUS
+154,154,422,Stephanie Dubois,CAN
+155,155,418,Valeria Savinykh,RUS
+156,156,415,Yi Miao Zhou,CHN
+157,157,412,Qiang Wang,CHN
+158,158,410,Chanel Simmonds,RSA
+159,159,410,Olivia Rogowska,AUS
+160,160,409,Tereza Mrdeza,CRO
+161,161,406,Akgul Amanmuradova,UZB
+162,162,401,Mariana Duque Marino,COL
+163,163,394,Valeria Solovieva,RUS
+164,164,394,Anna Lena Friedsam,GER
+165,165,386,Alexandra Panova,RUS
+166,166,384,Johanna Konta,GBR
+167,167,382,Catalina Castano,COL
+168,168,381,Tamarine Tanasugarn,THA
+169,169,375,Nadiya Kichenok,UKR
+170,170,374,Shelby Rogers,USA
+171,171,366,Alison Riske,USA
+172,172,366,Cagla Buyukakcay,TUR
+173,173,358,Cristina Andreea Mitu,ROU
+174,174,357,Julie Coin,FRA
+175,175,356,Irena Pavlovic,FRA
+176,176,355,Erika Sema,JPN
+177,177,355,Nicole Gibbs,USA
+178,178,354,Virginie Razzano,FRA
+179,179,348,Vera Dushevina,RUS
+180,180,348,Saisai Zheng,CHN
+181,181,341,Sacha Jones,AUS
+182,182,338,Chi Chi Scholl,USA
+183,183,338,Ashleigh Barty,AUS
+184,184,334,Yurika Sema,JPN
+185,185,333,Aravane Rezai,FRA
+186,186,327,Anne Keothavong,GBR
+187,187,321,Ons Jabeur,TUN
+188,188,321,Maria Irigoyen,ARG
+189,189,320,Alla Kudryavtseva,RUS
+190,190,316,Olga Savchuk,UKR
+191,191,316,Kateryna Kozlova,UKR
+192,192,316,An Sophie Mestach,BEL
+193,193,309,Edina Gallovits Hall,ROU
+194,194,309,Tara Moore,GBR
+195,195,307,Zarina Diyas,KAZ
+196,196,306,Ana Vrljic,CRO
+197,197,302,Corinna Dentoni,ITA
+198,198,298,Petra Cetkovska,CZE
+199,199,294,Madison Brengle,USA
+200,200,293,Elena Baltacha,GBR
+201,201,292,Stephanie Vogt,LIE
+202,202,292,Sandra Zahlavova,CZE
+203,203,285,Patricia Mayr Achleitner,AUT
+204,204,285,Alison Van Uytvanck,BEL
+205,205,283,Yuliya Beygelzimer,UKR
+206,206,283,Mervana Jugic Salkic,BIH
+207,207,279,Nudnida Luangnam,THA
+208,208,277,Jarmila Gajdosova,AUS
+209,209,277,Grace Min,USA
+210,210,276,Anne Schaefer,GER
+211,211,273,Timea Bacsinszky,SUI
+212,212,272,Veronica Cepede Royg,PAR
+213,213,269,Carina Witthoeft,GER
+214,214,267,Magda Linette,POL
+215,215,266,Varatchaya Wongteanchai,THA
+216,216,266,Jovana Jaksic,SRB
+217,217,264,Raluca Olaru,ROU
+218,218,261,Lyudmyla Kichenok,UKR
+219,219,257,Greta Arn,HUN
+220,220,256,Samantha Crawford,USA
+221,221,255,Vera Zvonareva,RUS
+222,222,254,Paula Kania,POL
+223,223,250,Laura Pous Tio,ESP
+224,224,248,Monique Adamczak,AUS
+225,225,248,Junri Namigata,JPN
+226,226,243,Irina Khromacheva,RUS
+227,227,242,Cristina Dinu,ROU
+228,228,240,Florencia Molinero,ARG
+229,229,238,Petra Rampre,SLO
+230,230,238,Arina Rodionova,RUS
+231,231,238,Valentyna Ivakhnenko,UKR
+232,232,238,Ilona Kremen,BLR
+233,233,237,Dia Evtimova,BUL
+234,234,236,Masa Zec Peskiric,SLO
+235,235,234,Arantxa Parra Santonja,ESP
+236,236,234,Ana Savic,CRO
+237,237,231,Renata Voracova,CZE
+238,238,230,Sachie Ishizu,JPN
+239,239,229,Kathrin Woerle,GER
+240,240,229,Severine Beltrame,FRA
+241,241,227,Beatriz Garcia Vidagany,ESP
+242,242,226,Samantha Murray,GBR
+243,243,225,Ksenia Lykina,RUS
+244,244,224,Ling Zhang,HKG
+245,245,223,Heidi El Tabakh,CAN
+246,246,221,Myrtille Georges,FRA
+247,247,220,Jill Craybas,USA
+248,248,219,Richel Hogenkamp,NED
+249,249,217,Victoria Larriere,FRA
+250,250,217,Nigina Abduraimova,UZB
+251,251,216,Danka Kovinic,MNE
+252,252,215,Sandra Zaniewska,POL
+253,253,212,Lisa Whybourn,GBR
+254,254,212,Amra Sadikovic,SUI
+255,255,212,Sofia Shapatava,GEO
+256,256,210,Melanie Klaffner,AUT
+257,257,206,Kristina Kucova,SVK
+258,258,205,Adriana Perez,VEN
+259,259,204,Diana Marcinkevica,LAT
+260,260,202,Marie Eve Pelletier,CAN
