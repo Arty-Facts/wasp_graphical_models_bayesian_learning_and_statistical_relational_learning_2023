@@ -12,3 +12,4 @@ tqdm
 nltk
 gensim
 numba
+pgmpy
